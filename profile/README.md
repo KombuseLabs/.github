@@ -1,7 +1,5 @@
-Kombuse is a local-first desktop app for managing AI coding agents with a built-in private issue tracker. 
+Local-first agent management and issue tracking. 
 
-Everything runs entirely on your machine — no cloud dependency. 
+Orchestrate AI coding agents with triggers, permissions, and a private ticket system. 
 
-It manages AI agents that work alongside Claude Code & Codex and integrates a private ticket system for tracking work. 
-
-Kombuse is free and open source.
+Integrates with Claude Code and Codex. Everything runs on SQLite on your machine.
